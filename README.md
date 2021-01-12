@@ -1,2 +1,2 @@
 # Vb.net
-Theseare program written by me during studing visual basic dotnet
+These are program written by me during studing visual basic dotnet
