@@ -1,0 +1,13 @@
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\bin\Debug\netcoreapp3.1\Marksssss.exe
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\bin\Debug\netcoreapp3.1\Marksssss.deps.json
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\bin\Debug\netcoreapp3.1\Marksssss.runtimeconfig.json
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\bin\Debug\netcoreapp3.1\Marksssss.runtimeconfig.dev.json
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\bin\Debug\netcoreapp3.1\Marksssss.dll
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\bin\Debug\netcoreapp3.1\Marksssss.pdb
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\obj\Debug\netcoreapp3.1\Marksssss.AssemblyInfoInputs.cache
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\obj\Debug\netcoreapp3.1\Marksssss.AssemblyInfo.vb
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\obj\Debug\netcoreapp3.1\Marksssss.vbproj.CoreCompileInputs.cache
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\obj\Debug\netcoreapp3.1\Marksssss.dll
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\obj\Debug\netcoreapp3.1\Marksssss.pdb
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\obj\Debug\netcoreapp3.1\Marksssss.genruntimeconfig.cache
+C:\Users\Rutwik\source\repos\Marksssss\Marksssss\obj\Debug\netcoreapp3.1\Marksssss.vbprojAssemblyReference.cache

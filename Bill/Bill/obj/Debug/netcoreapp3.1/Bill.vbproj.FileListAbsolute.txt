@@ -1,0 +1,13 @@
+C:\Users\Rutwik\source\repos\Bill\Bill\bin\Debug\netcoreapp3.1\Bill.exe
+C:\Users\Rutwik\source\repos\Bill\Bill\bin\Debug\netcoreapp3.1\Bill.deps.json
+C:\Users\Rutwik\source\repos\Bill\Bill\bin\Debug\netcoreapp3.1\Bill.runtimeconfig.json
+C:\Users\Rutwik\source\repos\Bill\Bill\bin\Debug\netcoreapp3.1\Bill.runtimeconfig.dev.json
+C:\Users\Rutwik\source\repos\Bill\Bill\bin\Debug\netcoreapp3.1\Bill.dll
+C:\Users\Rutwik\source\repos\Bill\Bill\bin\Debug\netcoreapp3.1\Bill.pdb
+C:\Users\Rutwik\source\repos\Bill\Bill\obj\Debug\netcoreapp3.1\Bill.vbprojAssemblyReference.cache
+C:\Users\Rutwik\source\repos\Bill\Bill\obj\Debug\netcoreapp3.1\Bill.AssemblyInfoInputs.cache
+C:\Users\Rutwik\source\repos\Bill\Bill\obj\Debug\netcoreapp3.1\Bill.AssemblyInfo.vb
+C:\Users\Rutwik\source\repos\Bill\Bill\obj\Debug\netcoreapp3.1\Bill.vbproj.CoreCompileInputs.cache
+C:\Users\Rutwik\source\repos\Bill\Bill\obj\Debug\netcoreapp3.1\Bill.dll
+C:\Users\Rutwik\source\repos\Bill\Bill\obj\Debug\netcoreapp3.1\Bill.pdb
+C:\Users\Rutwik\source\repos\Bill\Bill\obj\Debug\netcoreapp3.1\Bill.genruntimeconfig.cache

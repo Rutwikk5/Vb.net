@@ -1,0 +1,13 @@
+C:\Users\Rutwik\source\repos\casestatement\casestatement\bin\Debug\netcoreapp3.1\casestatement.exe
+C:\Users\Rutwik\source\repos\casestatement\casestatement\bin\Debug\netcoreapp3.1\casestatement.deps.json
+C:\Users\Rutwik\source\repos\casestatement\casestatement\bin\Debug\netcoreapp3.1\casestatement.runtimeconfig.json
+C:\Users\Rutwik\source\repos\casestatement\casestatement\bin\Debug\netcoreapp3.1\casestatement.runtimeconfig.dev.json
+C:\Users\Rutwik\source\repos\casestatement\casestatement\bin\Debug\netcoreapp3.1\casestatement.dll
+C:\Users\Rutwik\source\repos\casestatement\casestatement\bin\Debug\netcoreapp3.1\casestatement.pdb
+C:\Users\Rutwik\source\repos\casestatement\casestatement\obj\Debug\netcoreapp3.1\casestatement.vbprojAssemblyReference.cache
+C:\Users\Rutwik\source\repos\casestatement\casestatement\obj\Debug\netcoreapp3.1\casestatement.AssemblyInfoInputs.cache
+C:\Users\Rutwik\source\repos\casestatement\casestatement\obj\Debug\netcoreapp3.1\casestatement.AssemblyInfo.vb
+C:\Users\Rutwik\source\repos\casestatement\casestatement\obj\Debug\netcoreapp3.1\casestatement.vbproj.CoreCompileInputs.cache
+C:\Users\Rutwik\source\repos\casestatement\casestatement\obj\Debug\netcoreapp3.1\casestatement.dll
+C:\Users\Rutwik\source\repos\casestatement\casestatement\obj\Debug\netcoreapp3.1\casestatement.pdb
+C:\Users\Rutwik\source\repos\casestatement\casestatement\obj\Debug\netcoreapp3.1\casestatement.genruntimeconfig.cache
